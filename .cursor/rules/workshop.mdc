@@ -1,0 +1,13 @@
+---
+description: Workshop rules
+globs: "**/*"
+---
+
+# Workshop rules
+
+- Только HTML/CSS/JS.
+- Без React, Vue, jQuery.
+- Без CDN.
+- Графики на Canvas или SVG.
+- Тёмная тема: #0a0a0b, #f0f0f0, #00ff88.
+- Используй CSS Grid для layout.
